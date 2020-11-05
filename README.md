@@ -4,7 +4,7 @@
 https://github.com/jphacks/C_2009
 ## 概要
 GRPCによるサーバ
-
+https://jphacks.github.io/C_2009_1/
 
 ### コード生成
 ```
